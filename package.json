@@ -1,0 +1,21 @@
+{
+	"name": "malsin-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ca74lyst/malsin-bot.git"
+	},
+	"author": "",
+	"dependencies": {
+		"discord.js": "^13.6.0",
+		"dotenv": "^14.3.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
