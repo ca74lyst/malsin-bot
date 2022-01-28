@@ -2,7 +2,7 @@
 require('dotenv').config()
 
 const TOKEN = process.env.TOKEN
-const usernames = ['Tinky Winky', 'Noo-noo', 'Dipsy', 'Laa-laa']
+const usernames = ['Tinky Winky', 'Noo-noo', 'Dipsy', 'Laa-laa', 'Ozan']
 // import discord.js
 const { Client, Intents } = require('discord.js')
 
